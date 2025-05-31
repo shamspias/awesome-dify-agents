@@ -51,9 +51,12 @@ This project grows only through community creativity, so your bug reports, featu
    flows/
    ├─ agents/
    ├─ chatbots/
-   ├─ rag/
-   ├─ integrations/
-   └─ utilities/
+   └─ chatflows/
+      ├─ rag/
+      ├─ integrations/
+      └─ utilities/
+
+   
    ```
 
    > If none fits, propose a new folder in your PR description.
